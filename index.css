@@ -1,0 +1,42 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li{
+	list-style: none;
+}
+.container{
+	width: 100%;
+	height: 32px;
+	margin:0 auto;
+	border-bottom:1px solid red;
+}
+}
+.top{
+	width: 1200px;
+	height: 32px;
+	margin: 0 auto;
+	border-bottom:1px solid red;
+}
+.right{
+	float: right;
+
+}
+.right>li{
+	float: left;
+	margin-left: 24px;
+	font-size: 12px;
+	line-height: 32px;
+	color: #000;
+}
+.right a{
+	color: #000;
+}
+.right img{
+	margin-right: 6px;
+	vertical-align: middle;
+}
+.right moblie{
+	padding-left: 15px;
+	back
+}
